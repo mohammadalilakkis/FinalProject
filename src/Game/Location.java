@@ -61,4 +61,7 @@ public class Location {
         return false;
 
     }
+    public void setM(int x) {
+        this.x = x;
+    }
 }
